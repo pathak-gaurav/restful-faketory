@@ -1,0 +1,1 @@
+[![CircleCI](https://circleci.com/gh/pathak-gaurav/restful-faketory.svg?style=svg)](https://circleci.com/gh/pathak-gaurav/restful-faketory)
